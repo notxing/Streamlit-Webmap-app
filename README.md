@@ -13,4 +13,4 @@ Web App URL: <https://webmap-app.streamlit.app>
 
 ## Demo
 
-![](https://i.imgur.com/6lj0oAO.png)
+![](portal.png)
