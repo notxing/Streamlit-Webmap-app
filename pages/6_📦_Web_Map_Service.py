@@ -5,8 +5,8 @@ import leafmap.foliumap as leafmap
 st.set_page_config(layout="wide")
 
 markdown = """
-A Streamlit map template
-<https://github.com/opengeos/streamlit-map-template>
+- Web App URL: <https://webmap-app.streamlit.app/>
+- GitHub repository: <https://github.com/gisatb/Streamlit-Webmap-app>
 """
 
 st.sidebar.title("About")

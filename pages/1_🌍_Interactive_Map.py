@@ -1,9 +1,12 @@
 import streamlit as st
 import leafmap.foliumap as leafmap
+import pandas as pd
+import numpy as np
+
 
 markdown = """
-A Streamlit map template
-<https://github.com/opengeos/streamlit-map-template>
+- Web App URL: <https://webmap-app.streamlit.app/>
+- GitHub repository: <https://github.com/gisatb/Streamlit-Webmap-app>
 """
 
 st.sidebar.title("About")
