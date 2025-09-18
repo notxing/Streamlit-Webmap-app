@@ -4,9 +4,11 @@ import leafmap.foliumap as leafmap
 st.set_page_config(layout="wide")
 
 markdown = """
-- Web App URL: <https://webmap-app.streamlit.app/>
-- GitHub repository: <https://github.com/gisatb/Streamlit-Webmap-app>
-""""
+- Web App URL:
+<https://webmap-app.streamlit.app>
+- GitHub repository:
+<https://github.com/gisatb/Streamlit-Webmap-app>
+"""
 
 st.sidebar.title("About")
 st.sidebar.info(markdown)
